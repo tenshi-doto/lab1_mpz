@@ -12,3 +12,4 @@
 /Users/nazar/DUIKT/MPZ/lab1_Bilous/lab1_Bilous/obj/Debug/net9.0/lab1_Bilous.pdb
 /Users/nazar/DUIKT/MPZ/lab1_Bilous/lab1_Bilous/obj/Debug/net9.0/lab1_Bilous.genruntimeconfig.cache
 /Users/nazar/DUIKT/MPZ/lab1_Bilous/lab1_Bilous/obj/Debug/net9.0/ref/lab1_Bilous.dll
+/Users/nazar/DUIKT/MPZ/lab1_Bilous/lab1_Bilous/obj/Debug/net9.0/lab1_Bilous.sourcelink.json
